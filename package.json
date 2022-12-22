@@ -1,0 +1,25 @@
+{
+  "name": "electron-example",
+  "version": "1.0.0",
+  "description": "electron study",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skymanla/electron-example.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "skymanla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skymanla/electron-example/issues"
+  },
+  "homepage": "https://github.com/skymanla/electron-example#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
